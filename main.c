@@ -45,6 +45,7 @@ static supported_device supported_devices[] = {
   { "ISW11K",           "145.0.0002", 0xc010ae18 },
   { "URBANO PROGRESSO", "010.0.3000", 0xc0176d40 },
   { "roamer2",          "OPEN_FFOS_V1.0.0B04_TME", 0xc00c3284 },
+  { "roamer2",          "OPEN_FFOS_V1.1.0B01_TME", 0xc00c3284 },
 
 };
 
